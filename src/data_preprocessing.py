@@ -4,7 +4,7 @@ data_preprocessing.py
 Loads the Ames Housing / Kaggle "House Prices: Advanced Regression Techniques"
 dataset and engineers the feature set used by the models in this project.
 
-Author: (your name here)
+Author: Sanjay
 Project: House Price Prediction — Linear Regression (SkillCraft ML Internship, Task 01)
 """
 
